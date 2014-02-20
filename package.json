@@ -1,0 +1,12 @@
+{
+  "name": "component-isempty",
+  "description": "isempty component",
+  "version": "0.0.1",
+  "keywords": [
+    "isempty",
+    "empty",
+    "component"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
